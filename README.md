@@ -25,8 +25,16 @@ This Python script serves as a Discord bot designed to streamline the process of
 - **Searchable Logs:**
   - Enables users to search logs by date, providing a convenient way to retrieve specific records.
 
+
+## Screenshot
+
+![Bot Logo](https://ibb.co/dJf8k4D)
+
+
 ## Requirements
 
 - Python 3.x
 - [Discord.py](https://discordpy.readthedocs.io/en/latest/) library
 - [Asyncpg](https://magicstack.github.io/asyncpg/) library
+
+
