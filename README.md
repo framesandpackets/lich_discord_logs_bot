@@ -28,7 +28,7 @@ This Python script serves as a Discord bot designed to streamline the process of
 
 ## Screenshot
 
-![Bot Logo](https://ibb.co/dJf8k4D)
+![Bot Screenshot](https://i.ibb.co/0VnHYyr/bot-screenshot.jpg)
 
 
 ## Requirements
